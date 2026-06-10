@@ -251,6 +251,7 @@ footer{
                 <img src="rem1.jpg" alt="Rem">
                 <img src="rem2.jpg" alt="Rem">
                 <img src="rem3.jpg" alt="Rem">
+                <img src="rem4.jpg" alt="Rem">
 
             </div>
 
