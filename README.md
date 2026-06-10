@@ -1,5 +1,4 @@
-# JACV472.github.io
-osi
+
 [index.html](https://github.com/user-attachments/files/28778933/index.html)
 <!DOCTYPE html>
 <html lang="es">
