@@ -261,7 +261,7 @@ footer{
 </div>
 
 <footer>
-    REM ES VIDA
+    Fuentes? Lo soñé.
 </footer>
 
 </body>
